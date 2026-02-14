@@ -1,0 +1,6 @@
+
+{
+  "name": "Bank Statement Analyzer",
+  "description": "An intelligent bank statement analyzer that extracts transactions from PDF or Excel files using Gemini AI, allows searching by recipient name, and generates detailed reports.",
+  "requestFramePermissions": []
+}
